@@ -1,0 +1,7 @@
+﻿graphics.lib(dibutil.obj) : warning LNK4099: PDB 'bgi.pdb' n'a pu être trouvé avec 'graphics.lib(dibutil.obj)' ou sur 'C:\Users\AQ81820\Desktop\TP3\Debug\bgi.pdb' ; l'objet sera lié sans informations de débogage
+graphics.lib(drawing.obj) : warning LNK4099: PDB 'bgi.pdb' n'a pu être trouvé avec 'graphics.lib(drawing.obj)' ou sur 'C:\Users\AQ81820\Desktop\TP3\Debug\bgi.pdb' ; l'objet sera lié sans informations de débogage
+graphics.lib(file.obj) : warning LNK4099: PDB 'bgi.pdb' n'a pu être trouvé avec 'graphics.lib(file.obj)' ou sur 'C:\Users\AQ81820\Desktop\TP3\Debug\bgi.pdb' ; l'objet sera lié sans informations de débogage
+graphics.lib(misc.obj) : warning LNK4099: PDB 'bgi.pdb' n'a pu être trouvé avec 'graphics.lib(misc.obj)' ou sur 'C:\Users\AQ81820\Desktop\TP3\Debug\bgi.pdb' ; l'objet sera lié sans informations de débogage
+graphics.lib(winbgi.obj) : warning LNK4099: PDB 'bgi.pdb' n'a pu être trouvé avec 'graphics.lib(winbgi.obj)' ou sur 'C:\Users\AQ81820\Desktop\TP3\Debug\bgi.pdb' ; l'objet sera lié sans informations de débogage
+graphics.lib(winthread.obj) : warning LNK4099: PDB 'bgi.pdb' n'a pu être trouvé avec 'graphics.lib(winthread.obj)' ou sur 'C:\Users\AQ81820\Desktop\TP3\Debug\bgi.pdb' ; l'objet sera lié sans informations de débogage
+  TP3.vcxproj -> C:\Users\AQ81820\Desktop\TP3\Debug\TP3.exe
