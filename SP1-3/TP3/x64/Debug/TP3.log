@@ -1,8 +1,0 @@
-﻿  main.cpp
-  mod_quiz_1.cpp
-C:\Users\AQ81820\Desktop\TP3\TP3\mod_quiz_1.cpp(5,13): warning C4244: 'return' : conversion de 'double' en 'unsigned char', perte possible de données
-C:\Users\AQ81820\Desktop\TP3\TP3\mod_quiz_1.cpp(10,15): warning C4552: '/' : résultat de l'expression non utilisé
-C:\Users\AQ81820\Desktop\TP3\TP3\mod_quiz_1.cpp(11,15): warning C4552: '/' : résultat de l'expression non utilisé
-  Génération de code en cours...
-C:\Users\AQ81820\Desktop\TP3\TP3\mod_quiz_1.cpp(12,15): warning C4552: '/' : résultat de l'expression non utilisé
-LINK : fatal error LNK1104: impossible d'ouvrir le fichier '..\graphics.lib'
