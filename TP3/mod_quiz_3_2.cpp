@@ -17,10 +17,6 @@ t_file_dynamique_image* t_file_dynamique_image_initialiser(t_image* image_ptr)
 		return NULL;
 	
 	}
-	else
-	{
-		file_image_ptr->tete = t_noeud_image_initialiser(image_ptr);
-	}
 	
 	/* Si le pointeur d'image est le pointeur nul : */
 	if (image_ptr == NULL)

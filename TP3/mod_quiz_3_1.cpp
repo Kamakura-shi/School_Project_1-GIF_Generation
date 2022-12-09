@@ -17,11 +17,6 @@ t_pile_dynamique_image* t_pile_dynamique_image_initialiser(t_image* image_ptr)
 		return NULL;
 	
 	}
-	else
-	{
-		/* On initialise le pointeur d'image et on fixe le pointeur vers le prochain noeud au pointeur nul avant de retourner le noeud */
-		pile_image_ptr->tete = t_noeud_image_initialiser(image_ptr);
-	}
 	
 	/* Si le pointeur d'image est le pointeur nul : */
 	if (image_ptr == NULL)
