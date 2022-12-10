@@ -6,11 +6,11 @@ t_noeud_image* t_noeud_image_initialiser(t_image* image_ptr)
 	/* On alloue la memoire dynamiquement */
 	t_noeud_image* noeud_image_ptr = (t_noeud_image*)malloc(sizeof(t_noeud_image));
 
-	/* En cas d'échec : */
+	/* En cas d'Ã©chec : */
 	if (noeud_image_ptr == NULL)
 	{
 		
-		/* Le message suivant est affiché */
+		/* Le message suivant est affichÃ© */
 		printf(" t_pile_dynamique_image_initialiser -> Erreur d'allocation de memoire\n");
 
 		/* On retourne le pointeur nul */
@@ -32,8 +32,10 @@ t_noeud_image* t_noeud_image_initialiser(t_image* image_ptr)
 
 }
 
-
 void t_noeud_image_detruire(t_noeud_image* noeud_image_ptr)
 {
-	free(noeud_image_ptr);
+	if (noeud_image_ptr != NULL)
+	{
+		free(noeud_image_ptr);
+	}
 }
